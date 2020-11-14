@@ -6,4 +6,4 @@ pubblish at site :https://hoalong2001.github.io/BNGW/
 https://hoalong2001.github.io/BNGW/d02/d02_home.html
 
 -- ngay 14/11-- co xem giup em có thiếu sót gì cần chỉnh sữa không cô 
-hppt://hoalong2001.github.io/home.html
+https://hoalong2001.github.io/project/home.html
